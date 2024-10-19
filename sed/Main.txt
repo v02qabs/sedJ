@@ -1,1 +1,1 @@
-Manifest-Class: sed.sed
+Main-Class: sed.sed

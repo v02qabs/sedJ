@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 
-import hiro.InputJ;
+import hiro.*;
 
 public class sed {
 
