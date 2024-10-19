@@ -1,1 +1,3 @@
 Main-Class: sed2.sed2
+Class-Path: /usr/share/java/libopt.jar
+

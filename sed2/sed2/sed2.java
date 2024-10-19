@@ -1,10 +1,12 @@
 package sed2;
 
 import sed2.Input.Input;
+import com.hiro.liboptions.sample;
 
 class sed2{
 	public static void main(String[] args){
-		System.out.println("ようこそsed2へ。");
+		System.out.println("よこそsed2へ。");
+		new sample().init_opt(args.length, "--overwrite" ,args);
 		new sed2();
 	}
 	public void sed2(){
