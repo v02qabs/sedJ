@@ -1,9 +1,9 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class sed {
+Public class sed {
 
-    public static void main(String[] args) {
+    Public static void main(String[] args) {
         new sed().init();
     }
 
